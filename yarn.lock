@@ -2936,9 +2936,10 @@ eslint-plugin-react@6.4.1:
     doctrine "^1.2.2"
     jsx-ast-utils "^1.3.1"
 
-eslint-plugin-wpcalypso@3.0.2:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-wpcalypso/-/eslint-plugin-wpcalypso-3.0.2.tgz#a6bcc6fca4e57d925b456c9ae3fec5bd1af499b8"
+eslint-plugin-wpcalypso@3.4.1:
+  version "3.4.1"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-wpcalypso/-/eslint-plugin-wpcalypso-3.4.1.tgz#2cb9cd69ebf8b8530e7533dff39c528d7636497a"
+  integrity sha512-rHbCINm3qJmCgASUDKdmRiulwt06EcJTy9Hd+MpZMS4o9eFfS23Q1z1bBYVsJ4nFexvWswqcfCsgRQnFPtT5pQ==
   dependencies:
     requireindex "^1.1.0"
 
